@@ -1,5 +1,7 @@
 # SeekableHash
 
+[![Code Climate](https://codeclimate.com/github/djreimer/seekable_hash.png)](https://codeclimate.com/github/djreimer/seekable_hash)
+
 A simple Ruby gem for looking up values in deeply-nested hashes.
 
 ## Installation
